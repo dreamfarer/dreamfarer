@@ -22,5 +22,5 @@ Here are a few guides I've published:
 Below is a snapshot of my GitHub stats based on my public contributions:
 
 <a>
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=dreamfarer&show_icons=true&theme=graywhite&hide_title=true" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=dreamfarer&show_icons=true&theme=graywhite&hide_title=true" />
 </a>
