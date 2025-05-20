@@ -7,6 +7,7 @@ Below are a few repositories I'm especially proud of:
 - [CLIBB](https://github.com/dreamfarer/clibb): A Python library that streamlines, simplifies, and speeds up command-line interface creation.
 - [ARES](https://github.com/dreamfarer/ARMA-3-ARTILLERY-CALCULATOR-ARES): An artillery computer for the video game Arma 3.
 - [UZH](https://github.com/dreamfarer/UZH): A collaborative effort by 11 students at UZH, offering extra resources and sample solutions for course assignments.
+- [EQUINOX-MAP](https://github.com/dreamfarer/equinox-map): An interactive map for the video game Equinox: Homecoming.
 
 🔗 You can find all my publicly available projects [here](https://github.com/dreamfarer?tab=repositories)!
 
