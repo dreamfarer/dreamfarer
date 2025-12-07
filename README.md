@@ -8,6 +8,7 @@ Below are a few repositories I'm especially proud of:
 - [ARES](https://github.com/dreamfarer/ARMA-3-ARTILLERY-CALCULATOR-ARES): An artillery computer for the video game Arma 3.
 - [UZH](https://github.com/dreamfarer/UZH): A collaborative effort by 11 students at UZH, offering extra resources and sample solutions for course assignments.
 - [EQUINOX-MAP](https://github.com/dreamfarer/equinox-map): An interactive map for the video game Equinox: Homecoming.
+- [GODOT-PROCEDURAL-SKIABLE-MOUNTAIN](https://github.com/dreamfarer/godot-procedural-skiable-mountain): Endless procedural generation of a single skiable mountain in Godot 4.5.
 
 🔗 You can find all my publicly available projects [here](https://github.com/dreamfarer?tab=repositories)!
 
