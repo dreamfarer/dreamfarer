@@ -14,8 +14,8 @@ Below are a few repositories I'm especially proud of:
 
 ## Guides
 Here are a few guides I've published:
+- [How to Setup Element Server Suite (ESS) Community on Hetzner Cloud](https://gist.github.com/dreamfarer/1dc6093317cb4c3e079a0ec68d616506)
 - [How to Publish Your Python Package to PyPI](https://gist.github.com/dreamfarer/c5a9009e76eab0007fc82663247062f8)
-- [Linux File Permissions Tutorial](https://gist.github.com/dreamfarer/0e61db060582a9289233f61ba93b7c17)
 - [How to Access LUKS-Encrypted Drives on Windows](https://gist.github.com/dreamfarer/851e792c2f36de08ad8ff287e79c87ff)
 
 🔗 Check out all my gists [here](https://gist.github.com/dreamfarer)!
